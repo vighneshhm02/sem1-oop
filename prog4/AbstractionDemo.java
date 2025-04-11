@@ -2,10 +2,6 @@ package demo;
 
 import java.util.Scanner;
 
-import demo.DotMatrix;
-import demo.LaserJet;
-import demo.Printer;
-
 abstract class Printer {
  abstract void configuration();
  abstract void display();

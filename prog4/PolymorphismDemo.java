@@ -1,9 +1,5 @@
 package demo;
 
-import demo.Car;
-import demo.Motorcycle;
-import demo.Vehicle;
-
 interface Vehicle {
  void drive();
 }
