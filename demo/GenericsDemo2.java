@@ -1,4 +1,4 @@
-package genrics;
+package demo;
 
 class GenericsDemo<T> {
     private T item; 

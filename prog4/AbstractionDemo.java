@@ -1,5 +1,4 @@
-package demo;
-
+package prog4;
 import java.util.Scanner;
 
 abstract class Printer {

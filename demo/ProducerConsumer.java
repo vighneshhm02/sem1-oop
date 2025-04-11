@@ -1,4 +1,4 @@
-package program8;
+package demo;
 class SharedBuffer {
   private Integer data = null;
 

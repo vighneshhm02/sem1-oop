@@ -1,4 +1,4 @@
-package exhandl;
+package demo;
 
 import java.util.Scanner;
 

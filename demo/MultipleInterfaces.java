@@ -1,4 +1,4 @@
-package doubleinh;
+package demo;
 import java.util.Scanner;
 
 interface Personal {

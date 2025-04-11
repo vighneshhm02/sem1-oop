@@ -1,4 +1,4 @@
-package thread;
+package demo;
 
 class Thread1 extends Thread {
  public void run() {
